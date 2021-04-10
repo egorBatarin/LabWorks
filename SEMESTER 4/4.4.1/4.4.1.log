@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.23)  7 APR 2021 21:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.23)  10 APR 2021 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1192,7 +1192,14 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
- (./4.4.1.aux)
+ (./4.4.1.aux
+
+LaTeX Warning: Label `p1' multiply defined.
+
+
+LaTeX Warning: Label `p1' multiply defined.
+
+)
 \openout1 = `4.4.1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
@@ -1385,30 +1392,42 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Missing character: There is no н in font cmmi12!
 Missing character: There is no м in font cmmi12!
  [2]
-Overfull \hbox (2.99586pt too wide) in paragraph at lines 267--269
+File: 228.png Graphic file (type bmp)
+<228.png>
+
+Overfull \hbox (2.99586pt too wide) in paragraph at lines 276--278
 []\TU/TimesNewRoman(0)/m/n/12 Рассчитаем по линиям желтого дуплета угловую дисп
 ерсию в спектрах разного порядка по формуле $\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 
 (\OML/cmm/m/it/12 ^^U\OT1/cmr/m/n/12 ) =
  []
 
+File: 5.png Graphic file (type bmp)
+<5.png>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] 
 AED: lastpage setting LastPage
-[3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
+[4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 304.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 304.
  (./4.4.1.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 286.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 304.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 304.
 Package rerunfilecheck Info: File `4.4.1.out' has not changed.
 (rerunfilecheck)             Checksum: 72270BF6AFCE804BC0130DFBAC04E07A;779.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 36450 strings out of 479277
- 858553 string characters out of 5883835
+ 36462 strings out of 479277
+ 858649 string characters out of 5883835
  1343212 words of memory out of 5000000
- 53442 multiletter control sequences out of 15000+600000
+ 53452 multiletter control sequences out of 15000+600000
  540607 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,11n,98p,770b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 4.4.1.pdf (3 pages).
+Output written on 4.4.1.pdf (4 pages).
