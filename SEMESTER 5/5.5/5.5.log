@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.23)  7 SEP 2021 21:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.23)  12 SEP 2021 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,54 +291,67 @@ Package babel Info: Default for \cyrdash is provided on input line 157.
 Package: ulem 2019/11/18
 \ULdepth=\dimen151
 )
+(c:/texlive/2020/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count266
+\c@ALC@line=\count267
+\c@ALC@rem=\count268
+\c@ALC@depth=\count269
+\ALC@tlm=\skip60
+\algorithmicindent=\skip61
+)
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 61.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 61.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 61.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 61.
+lass! (Proceeding with fingers crossed.) on input line 79.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 79.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 79.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 79.
 
 (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-18 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count266
+\l__kernel_color_stack_int=\count270
 \l__pdf_internal_box=\box67
 )
 (./5.5.aux)
 \openout1 = `5.5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 61.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 79.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 7
+9.
  (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    ... okay on input line 79.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
+\scratchcounter=\count271
 \scratchdimen=\dimen152
 \scratchbox=\box68
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\nofMPsegments=\count272
+\nofMParguments=\count273
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count270
+\MPscratchCnt=\count274
 \MPscratchDim=\dimen153
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
 \everyMPtoPDFconversion=\toks32
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -392,13 +405,13 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -408,27 +421,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Class revtex4-2 Warning: Assuming \noaffiliation for collaboration.
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 104--107
-\T2A/cmr/m/n/10 стал-ла NaI(Tl) и ор-га-ни-че-ской сцин-тил-ли-ру-ю-щей
- []
-
-
-Underfull \hbox (badness 4556) in paragraph at lines 108--112
+Underfull \hbox (badness 4556) in paragraph at lines 116--118
 []\T2A/cmr/m/n/10 Основными про-цес-са-ми вза-и-мо-дей-ствия гамма-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--112
-\T2A/cmr/m/n/10 излучения с ве-ще-ством яв-ля-ют-ся фо-то-эф-фект,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--112
-\T2A/cmr/m/n/10 эф-фект Комп-то-на и образо- ва-ние электрон-
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 113--115
+Underfull \hbox (badness 1038) in paragraph at lines 119--121
 []\T2A/cmr/bx/n/10 Фотоэффект \T2A/cmr/m/n/10 - про-цесс вза-и-мо-дей-ствия гам
 ма-
  []
@@ -436,52 +434,52 @@ Underfull \hbox (badness 1038) in paragraph at lines 113--115
 (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 6125) in paragraph at lines 120--128
+Underfull \hbox (badness 6125) in paragraph at lines 126--129
 \T2A/cmr/m/n/10 на-ря-ду с фо-то-эф-фек-том и эф-фек-том Комп-то-
  []
 
 [1{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<1.png, id=14, 491.436pt x 239.6955pt>
+<1.png, id=17, 491.436pt x 239.6955pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 197.
+Package pdftex.def Info: 1.png  used on input line 190.
 (pdftex.def)             Requested size: 206.4017pt x 100.67142pt.
-<2.png, id=15, 591.4095pt x 424.58624pt>
+<2.png, id=18, 591.4095pt x 424.58624pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 216.
+Package pdftex.def Info: 2.png  used on input line 224.
 (pdftex.def)             Requested size: 266.1318pt x 191.06204pt.
 
-Overfull \hbox (20.1318pt too wide) in paragraph at lines 216--217
+Overfull \hbox (20.1318pt too wide) in paragraph at lines 224--225
  [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 238.
+               Default added (so using `tbp') on input line 246.
 
-<3.png, id=17, 1936.836pt x 1482.13725pt>
+<3.png, id=20, 1936.836pt x 1482.13725pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 239.
+Package pdftex.def Info: 3.png  used on input line 247.
 (pdftex.def)             Requested size: 484.20782pt x 370.5334pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 243.
-
-<4.png, id=18, 824.6007pt x 575.9919pt>
-File: 4.png Graphic file (type png)
-<use 4.png>
-Package pdftex.def Info: 4.png  used on input line 244.
-(pdftex.def)             Requested size: 412.29933pt x 287.99524pt.
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 251.
 
-<5.png, id=19, 609.477pt x 420.3705pt>
+<4.png, id=21, 824.6007pt x 575.9919pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 252.
+(pdftex.def)             Requested size: 412.29933pt x 287.99524pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 259.
+
+<5.png, id=22, 609.477pt x 420.3705pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 267.
+Package pdftex.def Info: 5.png  used on input line 275.
 (pdftex.def)             Requested size: 304.73776pt x 210.18474pt.
 
 Class revtex4-2 Warning: Float cannot be placed.
@@ -489,18 +487,18 @@ Class revtex4-2 Warning: Float cannot be placed.
 [2 <./1.png> <./2.png>] [3 <./3.png> <./4.png>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 269.
+ on input line 283.
 
 No file 5.5.bbl.
 [4] [5 <./5.png>] (./5.5.aux) ) 
 Here is how much of TeX's memory you used:
- 7534 strings out of 480471
- 97489 string characters out of 5903300
- 369785 words of memory out of 5000000
- 23415 multiletter control sequences out of 15000+600000
- 554122 words of font info for 87 fonts, out of 8000000 for 9000
+ 7719 strings out of 480471
+ 99600 string characters out of 5903300
+ 371820 words of memory out of 5000000
+ 23592 multiletter control sequences out of 15000+600000
+ 554924 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,35p,835b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,35p,874b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-s
 uper/cm-super-t2a.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.
@@ -513,13 +511,14 @@ amsfonts/cm/cmr9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pf
 b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texl
 ive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/t
-exmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/
-fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type
-1/public/cm-super/sfti0900.pfb>
-Output written on 5.5.pdf (5 pages, 503366 bytes).
+exmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type
+1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/c
+m-super/sfti0900.pfb>
+Output written on 5.5.pdf (5 pages, 520567 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
